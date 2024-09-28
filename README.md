@@ -15,13 +15,13 @@ We are involved in a variety of projects that align with our mission. Here are s
 - **Learn Trail**
 - **Partor Ner**
 
-You can explore all our projects in the (https://github.com/your-organization/repositories) section.
+You can explore all our projects in the https://github.com/orgs/XK-Society/repositories section.
 
 ## Getting Involved
 
 We welcome contributions from the community. Here’s how you can get involved:
 
-1. **Explore Our Projects**: Check out our repositories(https://github.com/your-organization/repositories) and find a project that interests you.
+1. **Explore Our Projects**: Check out our repositories https://github.com/orgs/XK-Society/repositories and find a project that interests you.
 2. **Report Issues**: If you find any bugs or have suggestions for improvements, please open an issue in the relevant repository.
 
 Thank you for your interest in XK Society. We look forward to collaborating with you!
